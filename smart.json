@@ -1,0 +1,8 @@
+{
+  "name": "selectize",
+  "description": "Selectize is the hybrid of a textbox and <select> box. It's jQuery based and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.",
+  "homepage": "https://github.com/andrewreedy/meteor-selectize",
+  "author": "Andrew Reedy",
+  "version": "0.0.1",
+  "git": "https://github.com/andrewreedy/meteor-selectize.git"
+}
